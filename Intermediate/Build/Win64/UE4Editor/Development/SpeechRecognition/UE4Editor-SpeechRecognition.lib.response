@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-SpeechRecognition.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"F:\TheWork\Intermediate\Build\Win64\Phantom_HysteriaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
-"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.gen.cpp.obj"
-"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Default.rc2.res"
-/OUT:"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\UE4Editor-SpeechRecognition.lib"
+"F:\JustForFun\ForFunAgain\Intermediate\Build\Win64\ForFunAgainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
+"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.gen.cpp.obj"
+"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Default.rc2.res"
+/OUT:"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\UE4Editor-SpeechRecognition.lib"
 /INCLUDE:IMPLEMENT_MODULE_SpeechRecognition

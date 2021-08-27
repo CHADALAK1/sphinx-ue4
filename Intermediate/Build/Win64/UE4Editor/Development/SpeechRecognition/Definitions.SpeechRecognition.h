@@ -49,8 +49,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME Phantom_Hysteria
-#define UE_TARGET_NAME Phantom_HysteriaEditor
+#define UE_PROJECT_NAME ForFunAgain
+#define UE_TARGET_NAME ForFunAgainEditor
 #define WITH_SPHINX_BASE_BINDING 1
 #define WITH_POCKET_SPHINX_BINDING 1
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 

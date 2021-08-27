@@ -1,6 +1,6 @@
-F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Definitions.SpeechRecognition.h
-F:/TheWork/Plugins/SpeechRecognition/Source/SpeechRecognition/Private/SpeechRecognition.cpp
-F:\TheWork\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognition.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Definitions.SpeechRecognition.h
+F:/JustForFun/ForFunAgain/Plugins/SpeechRecognition/Source/SpeechRecognition/Private/SpeechRecognition.cpp
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognition.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Engine.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Core.h
@@ -676,42 +676,42 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
 c:\program files\epic games\ue_4.26\engine\source\runtime\slate\public\Widgets/Input/SSlider.h
 c:\program files\epic games\ue_4.26\engine\source\runtime\slate\public\Framework/Docking/LayoutService.h
-f:\thework\plugins\speechrecognition\source\speechrecognition\public\ISpeechRecognition.h
-F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Inc\SpeechRecognition\SpeechRecognition.generated.h
-F:/TheWork/Plugins/SpeechRecognition/Source/SpeechRecognition/Private/SpeechRecognitionActor.cpp
-F:\TheWork\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognitionActor.h
-f:\thework\plugins\speechrecognition\source\speechrecognition\public\SpeechRecognitionWorker.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/err.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/sphinxbase_export.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/ad.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\win32/sphinx_config.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/prim_type.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\win32/sphinx_config.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\pocketsphinx.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/cmd_ln.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/logmath.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fixpoint.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/feat.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/cmn.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/agc.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\pocketsphinx_export.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\cmdln_macro.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\ps_lattice.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/ngram_model.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/mmio.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\ps_mllr.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\ps_search.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fsg_model.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/glist.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/bitvec.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/ckd_alloc.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/hash_table.h
-F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/listelem_alloc.h
+f:\justforfun\forfunagain\plugins\speechrecognition\source\speechrecognition\public\ISpeechRecognition.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Inc\SpeechRecognition\SpeechRecognition.generated.h
+F:/JustForFun/ForFunAgain/Plugins/SpeechRecognition/Source/SpeechRecognition/Private/SpeechRecognitionComponent.cpp
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Source\SpeechRecognition\Public\SpeechRecognitionComponent.h
+f:\justforfun\forfunagain\plugins\speechrecognition\source\speechrecognition\public\SpeechRecognitionWorker.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/err.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/sphinxbase_export.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/ad.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\win32/sphinx_config.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/prim_type.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\win32/sphinx_config.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\pocketsphinx.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/cmd_ln.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/logmath.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fixpoint.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/feat.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/cmn.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/agc.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\pocketsphinx_export.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\cmdln_macro.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fe.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\ps_lattice.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/ngram_model.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/mmio.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\ps_mllr.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes\ps_search.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/fsg_model.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/glist.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/bitvec.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/ckd_alloc.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/hash_table.h
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes\sphinxbase/listelem_alloc.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\regex
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
@@ -754,5 +754,5 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\fstream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
-F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Inc\SpeechRecognition\SpeechRecognitionActor.generated.h
-F:/TheWork/Plugins/SpeechRecognition/Source/SpeechRecognition/Private/SpeechRecognitionWorker.cpp
+F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Inc\SpeechRecognition\SpeechRecognitionComponent.generated.h
+F:/JustForFun/ForFunAgain/Plugins/SpeechRecognition/Source/SpeechRecognition/Private/SpeechRecognitionWorker.cpp

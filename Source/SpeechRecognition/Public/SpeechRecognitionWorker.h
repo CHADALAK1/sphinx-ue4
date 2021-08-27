@@ -22,7 +22,7 @@ DECLARE_LOG_CATEGORY_EXTERN(SpeechRecognitionPlugin, Log, All);
 
 #define SENSCR_SHIFT 10
 
-class ASpeechRecognitionActor;
+class USpeechRecognitionComponent;
 
 using namespace std;
 
@@ -65,7 +65,7 @@ private:
 
 	//Speech detection mode
 	ESpeechRecognitionMode detectionMode;
-	
+
 	//Language
 	ESpeechRecognitionLanguage language;
 
@@ -73,7 +73,7 @@ private:
 	FRunnableThread* Thread;
 
 	//Pointer to our manager
-	ASpeechRecognitionActor* Manager;
+	USpeechRecognitionComponent* Manager;
 
 	//Thread safe counter 
 	FThreadSafeCounter StopTaskCounter;
@@ -90,7 +90,7 @@ private:
 	std::string dictionaryPath;
 
 	//Stores the recognition keywords, along with their tolerances
-	std::map <string , char*> keywords;
+	std::map <string, char*> keywords;
 
 	//Dictionary
 	std::map <string, set<string>> dictionary;
@@ -119,7 +119,7 @@ public:
 	void InitConfig();
 	bool SetConfigParam(FString param, ESpeechRecognitionParamType type, FString value);
 	void SetLanguage(ESpeechRecognitionLanguage _language);
-	bool StartThread(ASpeechRecognitionActor* manager);
+	bool StartThread(USpeechRecognitionComponent* manager);
 	void ShutDown();
 
 	// Print Debug Text

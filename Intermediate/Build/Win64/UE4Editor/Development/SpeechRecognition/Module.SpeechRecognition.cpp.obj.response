@@ -32,12 +32,12 @@
 /wd4244
 /wd4838
 /I .
-/I F:\TheWork\Plugins\SpeechRecognition\Source\SpeechRecognition\Private
-/I F:\TheWork\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes
-/I F:\TheWork\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes
-/I F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Inc\SpeechRecognition
-/I F:\TheWork\Plugins\SpeechRecognition\Source
-/I F:\TheWork\Plugins\SpeechRecognition\Source\SpeechRecognition\Public
+/I F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Source\SpeechRecognition\Private
+/I F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\SphinxBase\Includes
+/I F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\ThirdParty\PocketSphinx\Includes
+/I F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Inc\SpeechRecognition
+/I F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Source
+/I F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Source\SpeechRecognition\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"F:\TheWork\Intermediate\Build\Win64\Phantom_HysteriaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"F:\TheWork\Intermediate\Build\Win64\Phantom_HysteriaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"F:\TheWork\Intermediate\Build\Win64\Phantom_HysteriaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp"
-/FI"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Definitions.SpeechRecognition.h"
-/Fo"F:\TheWork\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
+/FI"F:\JustForFun\ForFunAgain\Intermediate\Build\Win64\ForFunAgainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"F:\JustForFun\ForFunAgain\Intermediate\Build\Win64\ForFunAgainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"F:\JustForFun\ForFunAgain\Intermediate\Build\Win64\ForFunAgainEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp"
+/FI"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Definitions.SpeechRecognition.h"
+/Fo"F:\JustForFun\ForFunAgain\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
 /TP
 /GR-
 /W4
