@@ -3,13 +3,13 @@
 	{
 		"Module.SpeechRecognition.cpp.obj": [
 			"SpeechRecognition.cpp.obj",
-			"SpeechRecognitionComponent.cpp.obj",
+			"SpeechRecognitionActor.cpp.obj",
 			"SpeechRecognitionWorker.cpp.obj"
 		],
 		"Module.SpeechRecognition.gen.cpp.obj": [
 			"SpeechRecognition.gen.cpp.obj",
 			"SpeechRecognition.init.gen.cpp.obj",
-			"SpeechRecognitionComponent.gen.cpp.obj"
+			"SpeechRecognitionActor.gen.cpp.obj"
 		]
 	}
 }

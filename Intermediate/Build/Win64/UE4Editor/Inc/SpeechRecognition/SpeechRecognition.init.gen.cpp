@@ -31,8 +31,8 @@ void EmptyLinkFunctionForGeneratedCodeSpeechRecognition_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0x9DC2210A,
-				0x8F0F4A40,
+				0x56F95C80,
+				0x753738DA,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

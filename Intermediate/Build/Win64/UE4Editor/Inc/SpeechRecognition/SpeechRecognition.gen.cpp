@@ -306,7 +306,7 @@ static struct FScriptStruct_SpeechRecognition_StaticRegisterNativesFRecognitionP
 {
 	FScriptStruct_SpeechRecognition_StaticRegisterNativesFRecognitionPhrase()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RecognitionPhrase")),new UScriptStruct::TCppStructOps<FRecognitionPhrase>);
+		UScriptStruct::DeferCppStructOps<FRecognitionPhrase>(FName(TEXT("RecognitionPhrase")));
 	}
 } ScriptStruct_SpeechRecognition_StaticRegisterNativesFRecognitionPhrase;
 	struct Z_Construct_UScriptStruct_FRecognitionPhrase_Statics
@@ -405,7 +405,7 @@ static struct FScriptStruct_SpeechRecognition_StaticRegisterNativesFRecognisedPh
 {
 	FScriptStruct_SpeechRecognition_StaticRegisterNativesFRecognisedPhrases()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("RecognisedPhrases")),new UScriptStruct::TCppStructOps<FRecognisedPhrases>);
+		UScriptStruct::DeferCppStructOps<FRecognisedPhrases>(FName(TEXT("RecognisedPhrases")));
 	}
 } ScriptStruct_SpeechRecognition_StaticRegisterNativesFRecognisedPhrases;
 	struct Z_Construct_UScriptStruct_FRecognisedPhrases_Statics

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpeechRecognition-0006.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\TheWorkV2\Intermediate\Build\Win64\Phantom_HysteriaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\TheWorkV2\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.cpp.obj"
+"F:\TheWorkV2\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Module.SpeechRecognition.gen.cpp.obj"
+"F:\TheWorkV2\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\Default.rc2.res"
+/OUT:"F:\TheWorkV2\Plugins\SpeechRecognition\Intermediate\Build\Win64\UE4Editor\Development\SpeechRecognition\UE4Editor-SpeechRecognition-0006.lib"

@@ -13,14 +13,14 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SPEECHRECOGNITION_SpeechRecognition_generated_h
 
-#define ForFunAgain_Plugins_SpeechRecognition_Source_SpeechRecognition_Public_SpeechRecognition_h_67_GENERATED_BODY \
+#define TheWorkV2_Plugins_SpeechRecognition_Source_SpeechRecognition_Public_SpeechRecognition_h_67_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRecognitionPhrase_Statics; \
 	SPEECHRECOGNITION_API static class UScriptStruct* StaticStruct();
 
 
 template<> SPEECHRECOGNITION_API UScriptStruct* StaticStruct<struct FRecognitionPhrase>();
 
-#define ForFunAgain_Plugins_SpeechRecognition_Source_SpeechRecognition_Public_SpeechRecognition_h_12_GENERATED_BODY \
+#define TheWorkV2_Plugins_SpeechRecognition_Source_SpeechRecognition_Public_SpeechRecognition_h_12_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRecognisedPhrases_Statics; \
 	SPEECHRECOGNITION_API static class UScriptStruct* StaticStruct();
 
@@ -28,7 +28,7 @@ template<> SPEECHRECOGNITION_API UScriptStruct* StaticStruct<struct FRecognition
 template<> SPEECHRECOGNITION_API UScriptStruct* StaticStruct<struct FRecognisedPhrases>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID ForFunAgain_Plugins_SpeechRecognition_Source_SpeechRecognition_Public_SpeechRecognition_h
+#define CURRENT_FILE_ID TheWorkV2_Plugins_SpeechRecognition_Source_SpeechRecognition_Public_SpeechRecognition_h
 
 
 #define FOREACH_ENUM_EPHRASERECOGNITIONTOLERANCE(op) \

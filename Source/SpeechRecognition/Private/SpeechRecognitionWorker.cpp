@@ -35,8 +35,8 @@ string FSpeechRecognitionWorker::GetOriginalString(string s) {
 	wstring wstr_stripped;
 	for (int j = 0; j < s.size(); j++) {
 		int charInt = s[j];
-		if (charInt != 40 && charInt != 41
-			&& (charInt < 48 || charInt > 57)
+		if (charInt != 40 && charInt != 41 
+			&& (charInt < 48 || charInt > 57) 
 			&& (charInt != 60 && charInt != 62)) {
 			wstr_stripped += s[j];
 		}
@@ -62,7 +62,7 @@ bool FSpeechRecognitionWorker::EnableGrammarMode(FString grammarName)
 	std::string grammarFile = contentPath_str + "model/" + langStr + "/grammars/" + name + ".gram";
 
 	// Init config and set default params
-	InitConfig();
+	InitConfig();	
 	cmd_ln_set_str_r(config, "-jsgf", grammarFile.c_str());
 
 	initRequired = true;
@@ -290,7 +290,7 @@ void FSpeechRecognitionWorker::Stop() {
 	StopTaskCounter.Increment();
 }
 
-bool FSpeechRecognitionWorker::StartThread(USpeechRecognitionComponent* manager) {
+bool FSpeechRecognitionWorker::StartThread(USpeechRecognitionActor* manager) {
 	Manager = manager;
 	int32 threadIdx = ISpeechRecognition::Get().GetInstanceCounter();
 	FString threadName = FString("FSpeechRecognitionWorker:") + FString::FromInt(threadIdx);
@@ -475,7 +475,7 @@ uint32 FSpeechRecognitionWorker::Run() {
 		}
 		if (peakSum > 0)
 		{
-			currentVolume = peakSum / peaks.size();
+			currentVolume = peakSum / peaks.size();			
 		}
 
 		// transition from silence to listening
